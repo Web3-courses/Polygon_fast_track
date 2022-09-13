@@ -1,6 +1,6 @@
 # Polygon Fast Track Course(FREE)
 
-![Hero Img](PolygonEthereum_Course.jpg)
+![Hero Img](https://github.com/Web3-courses/EVM_Polygon_Daytime/blob/main/PolygonEthereum_Course.jpg)
 
 This repo is specific to the EVM -> Polygon daytime course(Fasttrack). 
 
