@@ -1,7 +1,7 @@
 # Week_01
 ## Day_02 : Solidity : Intermediate
 
-This is the seventh day of the full day version of the EVM → Polygon bootcamp.
+This is the second day of the full day version of the EVM → Polygon bootcamp.
 
 In this session, we will look at solidity language and how it is used for creating smart contracts.
 ### Agenda
