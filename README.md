@@ -50,7 +50,7 @@ The course is a five day, intensive, full day bootcamp where students are expect
 | 01 | [02](https://github.com/Web3-courses/Polygon_fast_track/tree/main/Day_02) | Solidity inheritance and enumeration.Solidity and smart contracts.Solidity best practices | 
 | 01 | [03](https://github.com/Web3-courses/Polygon_fast_track/tree/main/Day_03) | Smart contract best practices.ERC and EIP standards - 20, 1155, 165 and 721.OpenZeppelin| 
 | 01 | [04](https://github.com/Web3-courses/Polygon_fast_track/tree/main/Day_04) | Basics of DApps → ABI and bytecode, Infura vs Alchemy API, Moralis.The technical architecture of dApps → React js, The Graph, Hardhat, Mocha etc.Truffle vs Hardhat → Ganache, Truffle console, hardhat console etc | 
-| 01 | [05](https://github.com/Web3-courses/Polygon_fast_track/tree/main/Day_05) | Unit testing using chai and mocha → assertion.Pushing to git → protecting keys and other secret information| 
+| 01 | [05](https://github.com/Web3-courses/Polygon_fast_track/tree/main/Day_05) | Frontend| 
 
 ### Important Resources
 
