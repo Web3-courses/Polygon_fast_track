@@ -26,7 +26,7 @@ In this session, we will look at solidity language and how it is used for creati
 
 
 ## Slides for the presentation
-1. [Google Slides](https://docs.google.com/presentation/d/1lNQ-XEwnk51UCBhW-rkuxvSVifkxzzQ1BNT3KO25NmY/edit?usp=sharing)
+1. [Google Slides](https://docs.google.com/presentation/d/1_ZiztIGepeT0DsHt5EVStjfo0S22es84adwMKCno3Ps/edit?usp=sharing)
 
 ### Instructor side Notes
 1. [Solidity Functions](https://www.tutorialspoint.com/solidity/solidity_functions.htm)
