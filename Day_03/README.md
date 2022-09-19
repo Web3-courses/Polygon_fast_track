@@ -25,7 +25,7 @@ In this session, we will look at solidity language and how it is used for creati
 
 
 ## Slides for the presentation
-1. [Google Slides](https://docs.google.com/presentation/d/1bJS3Fd2GBkG4k4JriZMJNPJKPfyoDudkG9I7oQaQ8sY/edit?usp=sharing)
+1. [Google Slides](https://docs.google.com/presentation/d/17uF2BZOtB4ZtSmrQlrlSW22bl264HdpvzdjbPdW9pps/edit?usp=sharing)
 
 ### Instructor side Notes
 1. [Abstract contracts](https://www.tutorialspoint.com/solidity/solidity_abstract_contracts.htm)
