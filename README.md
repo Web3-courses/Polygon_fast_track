@@ -56,6 +56,9 @@ The course is a five day, intensive, full day bootcamp where students are expect
 
 - [Diagrams](https://github.com/Web3-courses/Diagrams)
 
+### Students 
+- Pranit Garg
+- Sarah Akwisombe
 
 
 
