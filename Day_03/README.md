@@ -15,9 +15,9 @@ In this session, we will look at solidity language and how it is used for creati
 | 12:00 am | 30 mins | Demo - ERC20 |
 | 12:30 am | 30 mins | Demo - Abstract Contracts |
 | 01:00 pm | 60 mins | Lunch Break |
-| 02:00 pm | 60 mins | Libraries |
-| 03:00 pm | 60 mins | Events and Emits |
-| 04:00 pm | 60 mins | Using Safe Math |
+| 02:00 pm | 60 mins | Events and Emits |
+| 03:00 pm | 60 mins | Discussions and QnA |
+
 
 ### Instructor Resources
 
